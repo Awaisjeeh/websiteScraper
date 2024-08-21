@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZfsrnQ5lDCvIJVx7W3YSbSiOKmzjgKm89doKiSHCXtgQxjQpsyEzEppTetRmvjGp29uxZPQWw1S3WVZQaGqNnw==",
+  "success": true,
+  "projectFilePath": "D:\\Awais is a chutia\\websiteScraper\\websiteScraper\\websiteScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mawai\\.nuget\\packages\\htmlagilitypack\\1.11.62\\htmlagilitypack.1.11.62.nupkg.sha512"
+  ],
+  "logs": []
+}

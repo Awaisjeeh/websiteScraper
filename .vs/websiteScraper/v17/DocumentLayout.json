@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Awais is a chutia\\websiteScraper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C578DCF-C946-43E3-B3D1-9F17069A49CB}|websiteScraper\\websiteScraper.csproj|d:\\awais is a chutia\\websitescraper\\websitescraper\\webscrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C578DCF-C946-43E3-B3D1-9F17069A49CB}|websiteScraper\\websiteScraper.csproj|solutionrelative:websitescraper\\webscrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C578DCF-C946-43E3-B3D1-9F17069A49CB}|websiteScraper\\websiteScraper.csproj|d:\\awais is a chutia\\websitescraper\\websitescraper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C578DCF-C946-43E3-B3D1-9F17069A49CB}|websiteScraper\\websiteScraper.csproj|solutionrelative:websitescraper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebScrapper.cs",
+              "DocumentMoniker": "D:\\Awais is a chutia\\websiteScraper\\websiteScraper\\WebScrapper.cs",
+              "RelativeDocumentMoniker": "websiteScraper\\WebScrapper.cs",
+              "ToolTip": "D:\\Awais is a chutia\\websiteScraper\\websiteScraper\\WebScrapper.cs",
+              "RelativeToolTip": "websiteScraper\\WebScrapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T18:57:04.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Awais is a chutia\\websiteScraper\\websiteScraper\\Program.cs",
+              "RelativeDocumentMoniker": "websiteScraper\\Program.cs",
+              "ToolTip": "D:\\Awais is a chutia\\websiteScraper\\websiteScraper\\Program.cs",
+              "RelativeToolTip": "websiteScraper\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwC8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T17:19:53.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

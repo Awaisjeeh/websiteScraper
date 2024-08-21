@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "websiteScraper/1.0.0": {
+        "dependencies": {
+          "HtmlAgilityPack": "1.11.62"
+        },
+        "runtime": {
+          "websiteScraper.dll": {}
+        }
+      },
+      "HtmlAgilityPack/1.11.62": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.62.0",
+            "fileVersion": "1.11.62.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "websiteScraper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HtmlAgilityPack/1.11.62": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KS4h7ZjWsO6YixRfQgYdR+PZMbTaZod1LBPi+1Ph7dJCARzQm7DOKe5HPhP/o0EWX5l7QCgAZHa4VOa4pQa8JQ==",
+      "path": "htmlagilitypack/1.11.62",
+      "hashPath": "htmlagilitypack.1.11.62.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+D:\simple-calculator\websiteScraper\websiteScraper\bin\Debug\net8.0\websiteScraper.exe
+D:\simple-calculator\websiteScraper\websiteScraper\bin\Debug\net8.0\websiteScraper.deps.json
+D:\simple-calculator\websiteScraper\websiteScraper\bin\Debug\net8.0\websiteScraper.runtimeconfig.json
+D:\simple-calculator\websiteScraper\websiteScraper\bin\Debug\net8.0\websiteScraper.dll
+D:\simple-calculator\websiteScraper\websiteScraper\bin\Debug\net8.0\websiteScraper.pdb
+D:\simple-calculator\websiteScraper\websiteScraper\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\simple-calculator\websiteScraper\websiteScraper\obj\Debug\net8.0\websiteScraper.csproj.AssemblyReference.cache
+D:\simple-calculator\websiteScraper\websiteScraper\obj\Debug\net8.0\websiteScraper.GeneratedMSBuildEditorConfig.editorconfig
+D:\simple-calculator\websiteScraper\websiteScraper\obj\Debug\net8.0\websiteScraper.AssemblyInfoInputs.cache
+D:\simple-calculator\websiteScraper\websiteScraper\obj\Debug\net8.0\websiteScraper.AssemblyInfo.cs
+D:\simple-calculator\websiteScraper\websiteScraper\obj\Debug\net8.0\websiteScraper.csproj.CoreCompileInputs.cache
+D:\simple-calculator\websiteScraper\websiteScraper\obj\Debug\net8.0\websiteScraper.sourcelink.json
+D:\simple-calculator\websiteScraper\websiteScraper\obj\Debug\net8.0\websiteS.242C7D7F.Up2Date
+D:\simple-calculator\websiteScraper\websiteScraper\obj\Debug\net8.0\websiteScraper.dll
+D:\simple-calculator\websiteScraper\websiteScraper\obj\Debug\net8.0\refint\websiteScraper.dll
+D:\simple-calculator\websiteScraper\websiteScraper\obj\Debug\net8.0\websiteScraper.pdb
+D:\simple-calculator\websiteScraper\websiteScraper\obj\Debug\net8.0\websiteScraper.genruntimeconfig.cache
+D:\simple-calculator\websiteScraper\websiteScraper\obj\Debug\net8.0\ref\websiteScraper.dll
+D:\Awais is a chutia\websiteScraper\websiteScraper\bin\Debug\net8.0\websiteScraper.exe
+D:\Awais is a chutia\websiteScraper\websiteScraper\bin\Debug\net8.0\websiteScraper.deps.json
+D:\Awais is a chutia\websiteScraper\websiteScraper\bin\Debug\net8.0\websiteScraper.runtimeconfig.json
+D:\Awais is a chutia\websiteScraper\websiteScraper\bin\Debug\net8.0\websiteScraper.dll
+D:\Awais is a chutia\websiteScraper\websiteScraper\bin\Debug\net8.0\websiteScraper.pdb
+D:\Awais is a chutia\websiteScraper\websiteScraper\bin\Debug\net8.0\HtmlAgilityPack.dll
+D:\Awais is a chutia\websiteScraper\websiteScraper\obj\Debug\net8.0\websiteScraper.csproj.AssemblyReference.cache
+D:\Awais is a chutia\websiteScraper\websiteScraper\obj\Debug\net8.0\websiteScraper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Awais is a chutia\websiteScraper\websiteScraper\obj\Debug\net8.0\websiteScraper.AssemblyInfoInputs.cache
+D:\Awais is a chutia\websiteScraper\websiteScraper\obj\Debug\net8.0\websiteScraper.AssemblyInfo.cs
+D:\Awais is a chutia\websiteScraper\websiteScraper\obj\Debug\net8.0\websiteScraper.csproj.CoreCompileInputs.cache
+D:\Awais is a chutia\websiteScraper\websiteScraper\obj\Debug\net8.0\websiteS.242C7D7F.Up2Date
+D:\Awais is a chutia\websiteScraper\websiteScraper\obj\Debug\net8.0\websiteScraper.dll
+D:\Awais is a chutia\websiteScraper\websiteScraper\obj\Debug\net8.0\refint\websiteScraper.dll
+D:\Awais is a chutia\websiteScraper\websiteScraper\obj\Debug\net8.0\websiteScraper.pdb
+D:\Awais is a chutia\websiteScraper\websiteScraper\obj\Debug\net8.0\websiteScraper.genruntimeconfig.cache
+D:\Awais is a chutia\websiteScraper\websiteScraper\obj\Debug\net8.0\ref\websiteScraper.dll
